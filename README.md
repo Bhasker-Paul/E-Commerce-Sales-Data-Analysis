@@ -27,7 +27,7 @@ This project analyzes an E-commerce sales dataset from Kaggle to uncover insight
 - NumPy
 - Matplotlib
 - Seaborn
-- Scikit-learn (for preprocessing, if used)
+- Scikit-learn 
 
 ## Insights
 - Monthly and yearly **sales trends** show peaks and dips.  
